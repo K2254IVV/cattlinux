@@ -1,5 +1,5 @@
 NAME="Catt Linux"
-PRETTY_NAME="Catt Linux Cookie 1.0"
+PRETTY_NAME="Catt Linux (Cookie) 1.0"
 ID=cattlinux
 ID_LIKE=arch
 VERSION="(Cookie) 1.0"
@@ -10,3 +10,6 @@ NAME="Catt Linux"
 PRETTY_NAME="Catt Linux Cookie"
 ID=cattlinux
 ID_LIKE=arch
+HOME_URL="https://github.com/K2254IVV/cattlinux/"
+SUPPORT_URL="https://github.com/K2254IVV/cattlinux/issues"
+BUG_REPORT_URL="https://github.com/K2254IVV/cattlinux/issues"
