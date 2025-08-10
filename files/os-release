@@ -1,0 +1,12 @@
+NAME="Catt Linux"
+PRETTY_NAME="Catt Linux Cookie 1.0"
+ID=cattlinux
+ID_LIKE=arch
+VERSION="(Cookie) 1.0"
+VERSION_ID="1.0"
+VERSION_CODENAME="Cookie"
+[work@cattlinux ~]$ cat /etc/os-release 
+NAME="Catt Linux"
+PRETTY_NAME="Catt Linux Cookie"
+ID=cattlinux
+ID_LIKE=arch
