@@ -1,2 +1,4 @@
 # cattlinux
-Catt Linux - is open linux distributive  (based on archlinux packets)
+WIP Project in LIVE!!
+Catt Linux - is open linux MASTER SCRIPT of INSTALLATION (MSoI)
+(NOT DISTRIBUTIVE)
