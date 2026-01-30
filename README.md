@@ -1,8 +1,3 @@
-# cattlinux
-WIP Project in LIVE!!
-
-Catt Linux - is open linux MASTER SCRIPT of INSTALLATION (MSoI)
-
-(NOT DISTRIBUTIVE)
-
-THE PROJECT HAS BEEN MOVED TO ANOTHER REPOSITORY TO AVOID BURNOUT!! MY APOLOGY
+# ПРОЕКТ БЫЛ ПЕРЕНЕСЕН НА РЕПОЗИТОРИЙ MasterNUX ВОИЗБЕЖАНИЯ ВЫГОРАНИЯ И РАСПЫЛЕНИЯ
+# ТАКЖЕ ОБНОВЛЕНИЕ ДАННОГО РЕПОЗИТОРИЯ ОСТАНОВЛЕНО
+# ЧТОБЫ ОЗНАКОМИТСЯ С MASTERNUX ПЕРЕДИТЕ СЮДА: [СЫЛКА](https://github.com/K2254IVV/MASTERNUX)
